@@ -5,3 +5,7 @@ We'll be using Gitter again for chat, although we'll be in a different room toda
 [![Gitter](https://badges.gitter.im/githubschool/friendly-pancake.svg)](https://gitter.im/githubschool/friendly-pancake?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Yolo!!!
+
+### Intuit - dealing with mergge conflict
+
+Resolve conflict
