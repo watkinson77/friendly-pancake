@@ -6,4 +6,6 @@ We'll be using Gitter again for chat, although we'll be in a different room toda
 
 Yolo!!!
 
-#whatheheckdont conflict with my chg..
+#whatheheckdontbeconflicting..
+
+
